@@ -1,5 +1,5 @@
 # GCT Confidentiality Agreement
-`Revision: 2021-01-27`
+`Revision: 2021-01-28`
 
 **Privacy & Security Officer:** Luke Strickland
 
@@ -19,7 +19,7 @@ Sometimes information can be difficult to determine if it is private information
 -   Is the information protected behind a password protected location, including but not limited to the GCT Dashboard
 -   Could the information impact someone (positive or negatively) when shared without permission
 -   Does the information grant access to someone’s account
--   Did the conversation happened in a private channels
+-   Did the conversation happen in a private channels
 -   Is the information personal in nature, some examples include:
 	-   Name
 	-   Birthdate
@@ -42,7 +42,7 @@ As a member of the Glimesh Community Team we ask that keeping private informatio
 -   Do not stream or broadcast while moderating.
 -   When you do stream please make sure that all screens with private information are closed.
 -   Be mindful of other areas that may contain private information as well including direct messages or conversations on Discord in channels set aside for moderation. Please make sure that if you stream none of these are open during the stream.
--   Do not use your Glimesh moderation account on shared computers.
+-   Avoid using your Glimesh moderation account on shared computers, ensure you logout when you are done.
     
 If you were to find that you may have accidentally leaked information, or you believe information has been leaked by you, or another member of the community it is your responsibility to report as soon as possible to your Manager and Privacy & Security Officer. Failure to do so could result in information spreading further than it should and the sooner we can stop the leak the better.
 
