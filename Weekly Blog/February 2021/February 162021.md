@@ -54,11 +54,11 @@ French, Japanese and Portugese are back at 100% translation and we have now upda
 
 ![](https://lh5.googleusercontent.com/A2q4QbUvPOyRZZ9VVLpVOVfiV3SnG7rrxBAKJgLEPWlJRdpUaAvamn9Nj6200eEjma-7ACy7HDjMsOy1n9sPhdn_pxQm1THuFaE-gGSfqW8hQmXEVRvQiuEOCWFi_cZAEy4deWfS)
 
-##GCT Wins
+## GCT Wins
 
 Video tutorials are coming to our youtube channel: [https://www.youtube.com/glimesh](https://www.youtube.com/glimesh) soon! All thanks to Simy. So far we have 12 tutorials; How to set the website language, how to follow a streamer, how to tag your stream, how to upload & set an offline screen, how to upload a chat background, how to change your stream category, how to turn on email notifications, how to create your stream channel, how to add & remove your channel moderators, how to enable light mode, how to register an account and how to update your profile.
 
-##Merch
+## Merch
 
 T-shirts from the first round of sales have started landing on people’s doorsteps and we are loving those selfies - keep them coming!
 
