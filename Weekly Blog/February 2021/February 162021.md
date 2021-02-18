@@ -28,7 +28,7 @@ We saw some good overall growth across all platforms mostly due to our special n
 
 # Wins
 
-Dev Wins
+##Dev Wins
 
 Our Janus FTL can now enforce bitrates for us which will ensure that our bandwidth costs don’t skyrocket. We are planning a bitrate limit of around 6,000. We’ve also improved on higher security for Janus which means that anyone trying to maliciously connect to the service will have a harder time doing so. Our goal is to make sure the service is secure as possible. Also thanks to our Discord user lolPants Janus FTL can now be used easier for other services. This will allow the technology to continue to improve and grow, for Glimesh and for others.
 
@@ -54,11 +54,11 @@ French, Japanese and Portugese are back at 100% translation and we have now upda
 
 ![](https://lh5.googleusercontent.com/A2q4QbUvPOyRZZ9VVLpVOVfiV3SnG7rrxBAKJgLEPWlJRdpUaAvamn9Nj6200eEjma-7ACy7HDjMsOy1n9sPhdn_pxQm1THuFaE-gGSfqW8hQmXEVRvQiuEOCWFi_cZAEy4deWfS)
 
-GCT Wins
+##GCT Wins
 
 Video tutorials are coming to our youtube channel: [https://www.youtube.com/glimesh](https://www.youtube.com/glimesh) soon! All thanks to Simy. So far we have 12 tutorials; How to set the website language, how to follow a streamer, how to tag your stream, how to upload & set an offline screen, how to upload a chat background, how to change your stream category, how to turn on email notifications, how to create your stream channel, how to add & remove your channel moderators, how to enable light mode, how to register an account and how to update your profile.
 
-Merch
+##Merch
 
 T-shirts from the first round of sales have started landing on people’s doorsteps and we are loving those selfies - keep them coming!
 
