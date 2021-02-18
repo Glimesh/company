@@ -1,6 +1,6 @@
 # Intro
 
-Glimcap - Part 4
+## Glimcap - Part 4
 
 This week we’ve made some big announcements regarding launch, edge locations, and a fantastic proof of concept stream last week thanks to members of the GCT and Contributors teams. Continue reading if you want to learn the big LAUNCH NEWS…
 
@@ -48,7 +48,7 @@ We touched on this last week, but the code for international payouts is finally 
 
 A number of bugs were found this week, and just as quickly they were resolved. A few members including [Simy](https://glimesh.tv/JustSimy/profile) found that on IOS if a video was in full screen you could not type in chat while the video was playing. A fix was this was quickly implemented by [WildWolf](https://glimesh.tv/WildWolf/profile). [Ella](https://glimesh.tv/ella) helped identify a whole heap of issues relating to invisible unicode making fields appear empty, which was causing parts of the service to break. This was quickly fixed up by my [Mja00](https://glimesh.tv/mja00/profile) so no more service breakages there. Finally, you may notice the follower page (which is in your navigation bar) was taking people to a page which said coming soon, this was a bug. This has now been fixed and when your followed streamers go live, you will see them appear in there.
 
-Translation Wins
+## Translation Wins
 
 French, Japanese and Portugese are back at 100% translation and we have now updated German, Korean and Norwegian as part of our ongoing promise to make this website the best it can be for all to use.
 
