@@ -28,7 +28,7 @@ We saw some good overall growth across all platforms mostly due to our special n
 
 # Wins
 
-##Dev Wins
+## Dev Wins
 
 Our Janus FTL can now enforce bitrates for us which will ensure that our bandwidth costs don’t skyrocket. We are planning a bitrate limit of around 6,000. We’ve also improved on higher security for Janus which means that anyone trying to maliciously connect to the service will have a harder time doing so. Our goal is to make sure the service is secure as possible. Also thanks to our Discord user lolPants Janus FTL can now be used easier for other services. This will allow the technology to continue to improve and grow, for Glimesh and for others.
 
