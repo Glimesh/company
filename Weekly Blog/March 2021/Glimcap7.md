@@ -1,5 +1,3 @@
-**The Glimcap Week 7
-
 Hey everyone, welcome to week 7 of the Glimcap! We have been hard at work this past week optimising and fine tuning the website to continue the hard work from launch week.
 
 This week has seen increased stability across all servers, more new streamers arriving every day, and a continued overwhelming amount of support from everyone.
