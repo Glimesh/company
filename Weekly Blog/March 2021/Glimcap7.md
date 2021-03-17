@@ -41,10 +41,6 @@ Our financials continue to look solid across the board. Our subs have remained s
 The next portion of the financials we wanted to highlight was the server budget. We’ve officially reached a point in our usage where our DigitalOcean credits are running dry. We had a 10,000$ credit to try out Digital Ocean as a service and that credit is finally reaching its end. But since day one we have planned and operated as if that credit did not exist. All this means for us is that we will now start using Glimesh dollars to pay for the servers rather than the DigitalOcean credits. We have been building up the budget thanks to these credits though which helps us keep a buffer of funds to keep things going smooth.
 
 
-
-**
-
-
 | Mar 1st-14th Glimesh Server Budget | - |
 | - | - |
 | Gross | $8,225.23 |
