@@ -46,7 +46,7 @@ The next portion of the financials we wanted to highlight was the server budget.
 
 
 | Mar 1st-14th Glimesh Server Budget |
-| - |
+| - | - |
 | Gross | $8,225.23 |
 | Payouts  |  $1,847.16 |
 | Revenue  |  $6,378.07 |
