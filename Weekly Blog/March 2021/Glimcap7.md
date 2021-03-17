@@ -47,18 +47,18 @@ The next portion of the financials we wanted to highlight was the server budget.
 
 | Mar 1st-14th Glimesh Server Budget |
 | - |
-| Gross                                      $8,225.23 |
-| Payouts                                   $1,847.16 |
-| Revenue                                 $6,378.07 |
+| Gross | $8,225.23 |
+| Payouts  |  $1,847.16 |
+| Revenue  |  $6,378.07 |
 | <br/> |
-| DO Credits                              $1,189.96 |
-| DO Infra                                  $1,189.96 |
-| DO Bandwidth                        $1,674.27 |
-| DO Expenses                          $2,864.23 |
-| Remaining Credits                   $5,178.55 |
+| DO Credits  |  $1,189.96 |
+| DO Infra  |  $1,189.96 |
+| DO Bandwidth  | $1,674.27 |
+| DO Expenses  | $2,864.23 |
+| Remaining Credits | $5,178.55 |
 | <br/> |
-| "Budget" Remaining                 $3,513.84 |
-| Actual Remaining                     $6,378.07 |
+| "Budget" Remaining | $3,513.84 |
+| Actual Remaining | $6,378.07 |
 
 #### Platform Wins
 
