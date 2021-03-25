@@ -49,7 +49,7 @@ These financials are an overview of the past 7 days, MMR is monthly recurring re
 Channel subscriptions are growing nicely which is great to see as it not only supports us, but also the streamers! We had 115 new subscribers this week as well, the more the merrier!
 
 
-| Mar 1st-21st Glimesh Server Budget |
+| Mar 1st-21st Glimesh Server Budget | - |
 | - | - |
 | Gross | $9,945.00 |
 | Payouts | $2,343.38 |
