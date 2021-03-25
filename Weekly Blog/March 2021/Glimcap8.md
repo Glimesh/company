@@ -74,17 +74,17 @@ This week's wins are pretty varied so let's get to it!
 
 ### Marketing Plans
 
-Talks of marketing plans have begun this week and while there is more to come we have currently a working plan going forward to begin, hopefully, next Monday for national Burrito day! The plan is to have streamer highlights, selected at random of streamers making their best Burritos.
+Talks of marketing plans have begun this week and while there is more to come, we have currently have events in the works starting this Monday with some educational topics on Streaming with Glimesh. 
 
-Other plans include weekly live content streams going through how to use key aspects of the platform such as tags, subcategories and more. A roundtable Glimesh recap, streaming highlights from more categories and some videos introducing you all formally to the Glimesh Community Team.
+You can see below some of the planned events that we have going on, including some informational events about Glimesh, Streamer Highlights, and more ideas to come. We will be using these events to help share Glimesh and what we do with more people from all over.
 
 ![](https://lh3.googleusercontent.com/toAdCkIIXR3J80UkJwkIqTEgGVpfNNV2jScNEqYUoo2yhIoGOHMd5PfTge-gmUayRfwYXBwmF4RHQu3TBYXq-7WYbvb8Zxix5gHP8MnIx_gbt2lfMjN8C7uwSGuYQcop8HjFlpgb)
 
-There are more plans to come from this, including improving the viewing experience, but this is the start of us pushing away from laying low. The platform has seen some good stability improvements so now we are shifting gears and are now going to actively get the marketing campaign started.
+This is just the start of what we are beginning to do as we step away from laying low. While there is still work to do in regards to improving the site for both viewers and streamers we've come a long way and are now prepared to start the marketing campaign to help build awareness of our platform.
 
 ### Website Wins
 
-Subcategories are launching soon. This will allow you to refine the content of your stream more effectively. For example for those in the tech category, you will be able to add a subcategory for example; programming. For those in gaming the sub category will be your game title. Not only does this allow you to open your tags up to be a reflection of you and your community in a more relaxed way, but it also allows the viewers to be able to refine the content they want to see easier.
+Subcategories are launching soon. This will allow you to refine the content of your stream more effectively. For example for those in the tech category, you will be able to add a subcategory like programming for example. For those in gaming the sub category will be your game title. Not only does this allow you to open your tags up to be a reflection of you and your community in a more relaxed way, but it also allows the viewers to be able to refine the content they want to see easier.
 
 Database performance has been improved this week with the switch up to unnamed statements. This will make things more scalable as the website continues to grow.
 
