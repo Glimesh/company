@@ -1,4 +1,4 @@
-**Glimcap Part 8
+# Glimcap Part 8
 
 Hello Glimesh! Welcome to week 8 of the Glimcap. This week has been a tough week for growth, and a good week for stability. While we have had some ups and downs, we have a plan of action moving forward, and it’s this plan that we’ll be focusing on this week.
 
@@ -50,19 +50,19 @@ Channel subscriptions are growing nicely which is great to see as it not only su
 
 
 | Mar 1st-21st Glimesh Server Budget |
-| - |
-| Gross |
-| Payouts |
-| Revenue |
+| - | - |
+| Gross | $9,945.00 |
+| Payouts | $2,343.38 |
+| Revenue | $6,780.29 |
 | <br/> |
-| DO Credits |
-| DO Infra |
-| DO Bandwidth |
-| DO Expenses |
-| Remaining Credits |
+| DO Credits | $8,042.78 |
+| DO Infra | $1,773.53 |
+| DO Bandwidth | $2,050.76 |
+| DO Expenses | $3,824.29 |
+| Remaining Credits | $4,218.49 |
 | <br/> |
-| "Budget" Remaining |
-| Actual Remaining |
+| "Budget" Remaining | $2,955.45 |
+| Actual Remaining | $6,780.29 |
 
 The server budget allows us to understand how much the servers are costing us vs. what we are bringing back in, whilst we had some free credits with Digital Ocean these are now running out. While we are still in the green and can still exist, the budget number has decreased since last week - which means the money we are bringing in from subscriptions isn’t enough to cover the server costs and other additional funds in the future (employees, advertising, and other such things) so we need to start moving round some priorities.
 
