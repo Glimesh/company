@@ -76,15 +76,13 @@ This week's wins are pretty varied so let's get to it!
 
 Talks of marketing plans have begun this week and while there is more to come, we have currently have events in the works starting this Monday with some educational topics on Streaming with Glimesh. 
 
-You can see below some of the planned events that we have going on, including some informational events about Glimesh, Streamer Highlights, and more ideas to come. We will be using these events to help share Glimesh and what we do with more people from all over.
+You can see below some of the planned events that we have going on, including some informational events about Glimesh, Streamer Highlights, and more ideas to come. We will be using content these events to help share and promote Glimesh on social media. Our goal going forward is to really start getting people more interested and aware of what is going on here at Glimesh. We will continue to work on viewer improvements and streaming improvements but we feel that we are ready to really start getting the servers going with more streamers and more content being made on Glimesh.
 
 ![](https://lh3.googleusercontent.com/toAdCkIIXR3J80UkJwkIqTEgGVpfNNV2jScNEqYUoo2yhIoGOHMd5PfTge-gmUayRfwYXBwmF4RHQu3TBYXq-7WYbvb8Zxix5gHP8MnIx_gbt2lfMjN8C7uwSGuYQcop8HjFlpgb)
 
-This is just the start of what we are beginning to do as we step away from laying low. While there is still work to do in regards to improving the site for both viewers and streamers we've come a long way and are now prepared to start the marketing campaign to help build awareness of our platform.
-
 ### Website Wins
 
-Subcategories are launching soon. This will allow you to refine the content of your stream more effectively. For example for those in the tech category, you will be able to add a subcategory like programming for example. For those in gaming the sub category will be your game title. Not only does this allow you to open your tags up to be a reflection of you and your community in a more relaxed way, but it also allows the viewers to be able to refine the content they want to see easier.
+Subcategories are launching soon. This will allow you to refine the content of your stream more effectively. For example for those in the tech category, you will be able to add a subcategory like programming for example. For those in gaming the sub category will be your game title. Not only does this allow you to open your tags up to be a reflection of you and your community in a more relaxed way, but it also allows the viewers to be able to refine the content they want to see easier. Be on the lookout in #site-updates on the Discord for when this launches.
 
 Database performance has been improved this week with the switch up to unnamed statements. This will make things more scalable as the website continues to grow.
 
@@ -112,7 +110,7 @@ Growth is a challenge we are facing head on and as already mentioned earlier we 
 
 ### Persistent bugs
 
-There are fixes planned for all of these bugs, but some are taking a little more time than others due to them proving elusive and hard to reproduce.
+There are fixes planned for all of these bugs, but some are taking a little more time than others due to them proving elusive and hard to reproduce. We may have a potential fix for the chat scrolling so keep an eye out if you still see this bug.
 
 * Chat scrolling
 * Streams ‘going offline’
