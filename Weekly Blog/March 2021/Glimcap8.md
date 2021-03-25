@@ -49,7 +49,7 @@ These financials are an overview of the past 7 days, MMR is monthly recurring re
 Channel subscriptions are growing nicely which is great to see as it not only supports us, but also the streamers! We had 115 new subscribers this week as well, the more the merrier!
 
 
-| Mar 1st-21st Glimesh Server Budget | - |
+| Mar 1st-21st Glimesh Server Budget |  |
 | - | - |
 | Gross | $9,945.00 |
 | Payouts | $2,343.38 |
@@ -66,7 +66,7 @@ Channel subscriptions are growing nicely which is great to see as it not only su
 
 The server budget allows us to understand how much the servers are costing us vs. what we are bringing back in, whilst we had some free credits with Digital Ocean these are now running out. While we are still in the green and can still exist, the budget number has decreased since last week - which means the money we are bringing in from subscriptions isn’t enough to cover the server costs and other additional funds in the future (employees, advertising, and other such things) so we need to start moving round some priorities.
 
-These priorities now move for a call for growth. This is not a call for more money or a need for investors but, we as Glimesh need to work on growth. Which is where we shall now discuss through our wins.
+We want to start shifting our priorities over to marketing now and growing the site. This will help us to start earning more revenue to help further develop the service. This isn't a call for more money or investors but we are now actively setting our sights to begin actively campaigning the site to bring in more streamers to the platform.
 
 # Wins
 
