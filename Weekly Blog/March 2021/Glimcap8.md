@@ -1,4 +1,4 @@
-**Glimcap Part 8
+# Glimcap Part 8
 
 Hello Glimesh! Welcome to week 8 of the Glimcap. This week has been a tough week for growth, and a good week for stability. While we have had some ups and downs, we have a plan of action moving forward, and it’s this plan that we’ll be focusing on this week.
 
@@ -49,24 +49,24 @@ These financials are an overview of the past 7 days, MMR is monthly recurring re
 Channel subscriptions are growing nicely which is great to see as it not only supports us, but also the streamers! We had 115 new subscribers this week as well, the more the merrier!
 
 
-| Mar 1st-21st Glimesh Server Budget |
-| - |
-| Gross |
-| Payouts |
-| Revenue |
+| Mar 1st-21st Glimesh Server Budget |  |
+| - | - |
+| Gross | $9,945.00 |
+| Payouts | $2,343.38 |
+| Revenue | $6,780.29 |
 | <br/> |
-| DO Credits |
-| DO Infra |
-| DO Bandwidth |
-| DO Expenses |
-| Remaining Credits |
+| DO Credits | $8,042.78 |
+| DO Infra | $1,773.53 |
+| DO Bandwidth | $2,050.76 |
+| DO Expenses | $3,824.29 |
+| Remaining Credits | $4,218.49 |
 | <br/> |
-| "Budget" Remaining |
-| Actual Remaining |
+| "Budget" Remaining | $2,955.45 |
+| Actual Remaining | $6,780.29 |
 
 The server budget allows us to understand how much the servers are costing us vs. what we are bringing back in, whilst we had some free credits with Digital Ocean these are now running out. While we are still in the green and can still exist, the budget number has decreased since last week - which means the money we are bringing in from subscriptions isn’t enough to cover the server costs and other additional funds in the future (employees, advertising, and other such things) so we need to start moving round some priorities.
 
-These priorities now move for a call for growth. This is not a call for more money or a need for investors but, we as Glimesh need to work on growth. Which is where we shall now discuss through our wins.
+We want to start shifting our priorities over to marketing now and growing the site. This will help us to start earning more revenue to help further develop the service. This isn't a call for more money or investors but we are now actively setting our sights to begin actively campaigning the site to bring in more streamers to the platform.
 
 # Wins
 
@@ -74,17 +74,15 @@ This week's wins are pretty varied so let's get to it!
 
 ### Marketing Plans
 
-Talks of marketing plans have begun this week and while there is more to come we have currently a working plan going forward to begin, hopefully, next Monday for national Burrito day! The plan is to have streamer highlights, selected at random of streamers making their best Burritos.
+Talks of marketing plans have begun this week and while there is more to come, we have currently have events in the works starting this Monday with some educational topics on Streaming with Glimesh. 
 
-Other plans include weekly live content streams going through how to use key aspects of the platform such as tags, subcategories and more. A roundtable Glimesh recap, streaming highlights from more categories and some videos introducing you all formally to the Glimesh Community Team.
+You can see below some of the planned events that we have going on, including some informational events about Glimesh, Streamer Highlights, and more ideas to come. We will be using content these events to help share and promote Glimesh on social media. Our goal going forward is to really start getting people more interested and aware of what is going on here at Glimesh. We will continue to work on viewer improvements and streaming improvements but we feel that we are ready to really start getting the servers going with more streamers and more content being made on Glimesh.
 
 ![](https://lh3.googleusercontent.com/toAdCkIIXR3J80UkJwkIqTEgGVpfNNV2jScNEqYUoo2yhIoGOHMd5PfTge-gmUayRfwYXBwmF4RHQu3TBYXq-7WYbvb8Zxix5gHP8MnIx_gbt2lfMjN8C7uwSGuYQcop8HjFlpgb)
 
-There are more plans to come from this, including improving the viewing experience, but this is the start of us pushing away from laying low. The platform has seen some good stability improvements so now we are shifting gears and are now going to actively get the marketing campaign started.
-
 ### Website Wins
 
-Subcategories are launching soon. This will allow you to refine the content of your stream more effectively. For example for those in the tech category, you will be able to add a subcategory for example; programming. For those in gaming the sub category will be your game title. Not only does this allow you to open your tags up to be a reflection of you and your community in a more relaxed way, but it also allows the viewers to be able to refine the content they want to see easier.
+Subcategories are launching soon. This will allow you to refine the content of your stream more effectively. For example for those in the tech category, you will be able to add a subcategory like programming for example. For those in gaming the sub category will be your game title. Not only does this allow you to open your tags up to be a reflection of you and your community in a more relaxed way, but it also allows the viewers to be able to refine the content they want to see easier. Be on the lookout in #site-updates on the Discord for when this launches.
 
 Database performance has been improved this week with the switch up to unnamed statements. This will make things more scalable as the website continues to grow.
 
@@ -112,7 +110,7 @@ Growth is a challenge we are facing head on and as already mentioned earlier we 
 
 ### Persistent bugs
 
-There are fixes planned for all of these bugs, but some are taking a little more time than others due to them proving elusive and hard to reproduce.
+There are fixes planned for all of these bugs, but some are taking a little more time than others due to them proving elusive and hard to reproduce. We may have a potential fix for the chat scrolling so keep an eye out if you still see this bug.
 
 * Chat scrolling
 * Streams ‘going offline’
