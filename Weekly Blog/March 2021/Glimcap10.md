@@ -161,8 +161,6 @@ Community feedback is a huge part of what helps us grow and shape what we do. Wh
 
 ![](https://lh4.googleusercontent.com/5SDyIG2TYmpre3jc2rw8sHuzE2gsbPe75vpIiZnfa86GH_EJrMb6xSlxdVkjSITDcQYVGv0mglSfU3mhtSjy_6WUdc0Qc2uIG0QxzSmzj6t1Bzg_K4byxiih24xwzsVl42AMvLz6)
 
-![](https://lh3.googleusercontent.com/dVoLcYV0ZgD-PIELPQPLbp4FKqyXizHi-r6BcsM8V6sR4C7siQszw03rMpHmRMnVXAR0DmO83jrS9H-KmFc8A-oyOw8WRHxDwZjfg3gODn148TSqFjjtyj0zkaisjqZCBaug_pIi)
-
 # Roadmap
 
 In order to create the roadmap to phase 2, we want to take all the potential suggestions and distill them down onto the roadmap. So, next Tuesday we will be announcing the first revision of that roadmap!
