@@ -40,7 +40,7 @@ This week:
 
 This week we saw a drop in unique visitors and page views while bounce rate and visitation duration remind about the same which is good news. This means that people are continuing to stick around, there's just less people than there was before.
 
-Twitter continues to be our social media leader but Facebook is fast becoming our second runner up, and we now have our events over on there too which we hope will help continue that growth. We are working on specific instagram posts and also launching a tiktok to grow our audience further still.
+Twitter continues to be our social media leader but Facebook is fast becoming our second runner up, and we now have our events over on Facebook too which we hope will help continue that growth. We are working on specific Instagram posts and also launching a Tiktok to grow our audience further still.
 
 Twitter Summary:
 
@@ -135,7 +135,7 @@ We have been hit with two so far and a minor DoS day one. This is when people ar
 
 Persistent Bugs
 
-We are continuing to work on chat scrolling issues, streaming going “offline” and streams not showing as live.
+We are continuing to work on chat scrolling issues, streaming going “offline”, and streams not showing as live.
 
 # What’s next?
 
